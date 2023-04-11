@@ -7,7 +7,7 @@
 |<img src="https://avatars.githubusercontent.com/u/45708630?v=4" width=150>|
 |:---:|
 |👨🏻‍💻 학습자: [Lust3r](https://github.com/llimental)|
-|🔗 학습 자료: [튜토리얼 링크](https://developer.apple.com/tutorials/swiftui)|
+|🔗 학습 자료: [튜토리얼 링크1](https://developer.apple.com/tutorials/swiftui), [튜토리얼 링크2](https://developer.apple.com/tutorials/app-dev-training/)|
 |🗓️ 학습 기간: `23.04.11` ~ |
 
 <br>
